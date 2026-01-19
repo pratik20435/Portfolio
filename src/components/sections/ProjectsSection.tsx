@@ -185,7 +185,7 @@ const projects = [
     tech: ["React.js", "Node.js", "Express.js", "MongoDB"],
     github: "https://github.com",
     demo: "https://example.com",
-    image: "https://www.mrpeasy.com/blog/best-inventory-management-systems",
+    image: "https://multipurposethemes.com/wp-content/uploads/2023/11/Screen-Shot-2022-12-07-at-10.04.42.png",
   },
 ];
 
