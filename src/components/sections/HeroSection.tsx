@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { ArrowDown, Github, Linkedin, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import profileImage from "@/assets/portfolioprofile.jpeg";
+import profileImage from "@/assets/image gemini.png";
 
 export function HeroSection() {
   return (

@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
 import { useRef } from "react";
 import { Code2, Palette, Rocket, Users } from "lucide-react";
-import profileImage from "@/assets/3-d photo.png";
+import profileImage from "@/assets/Screenshot 2026-01-21 145246.png";
 
 const highlights = [
   {
