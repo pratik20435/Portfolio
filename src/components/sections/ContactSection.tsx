@@ -64,6 +64,7 @@ export function ContactSection() {
     setIsSubmitting(false);
     (e.target as HTMLFormElement).reset();
   };
+  
 
   return (
     <section
@@ -277,3 +278,6 @@ export function ContactSection() {
     </section>
   );
 }
+
+    
+

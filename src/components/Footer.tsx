@@ -15,7 +15,7 @@ export function Footer() {
         >
           <p className="text-muted-foreground text-sm flex items-center gap-1">
             Made with <Heart className="h-4 w-4 text-red-500 fill-red-500" /> by{" "}
-            <span className="gradient-text font-medium">Frontend Developer</span>
+            <span className="gradient-text font-medium">Pratik Devkota</span>
           </p>
           
           <p className="text-muted-foreground text-sm">
